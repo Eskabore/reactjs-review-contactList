@@ -1,0 +1,2 @@
+# reactjs-review-contactList
+Simple web-app of an imaginary contact list. This repository serves as a personal reminder of ReactJS basic, -although very important-, main steps while developping an App with this library. There is no correction as every commit is correct and changes seen in the repository either show different methods of achieving a particular action (ex: 3 different ways of setting "this") or a function that could be implemented
